@@ -1,3 +1,6 @@
+# Impesud Note:
+# The code has been updated at December 22, 2023.
+
 # Working with Market Data: NASDAQ_TotalView-ITCH Order Book
 
 While FIX has a dominant large market share, exchanges also offer native protocols. The Nasdaq offers a TotalView ITCH direct data-feed protocol that allows subscribers to track individual orders for equity instruments from placement to execution or cancellation.
