@@ -5,6 +5,7 @@ We are updating the code to be compatible with the following environments:
 - Python 3.8.10
 
 With the updates of various libraries, there are some methods that are deprecated and no longer work. We are making the necessary corrections.
+
 <a href="https://github.com/Impesud/machine-learning-for-trading/commit/6e4c5135aeca9b594b1e5dea94c4e4b1ee1f6c64">Updated codes on the 02_market_and_fundamental_data section</a> 
 
 # ML for Trading - 2<sup>nd</sup> Edition
